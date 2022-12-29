@@ -1,0 +1,6 @@
+allows to define a class that inherits all the methods & properties from other class
+is_a rule 
+classes: parent class n child class
+
+__int__() function 
+super() function
