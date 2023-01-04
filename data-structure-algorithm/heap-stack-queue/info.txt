@@ -1,0 +1,9 @@
+Heap: 
+
+tree-based data structure, value of a parent node is ordered in a certain way with respect to the value of its child nodes.
+
+Types: 
+    Min heap(value of parent node is less than or equal to the its child)
+    Max heap(value of parent node is greater than or equal to the its child)
+
+Time complexity: O(logn)
